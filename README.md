@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=800&color=39FF14&background=0D111700&center=true&vCenter=true&width=780&height=50&lines=%24+whoami;Priyanshu+Kumar+%E2%80%94+Final-year+B.Tech+CSE;Building+privacy-first+developer+tools;%24+git+log+--oneline+--all;gitwhisper+%C2%B7+finpulse-ai+%C2%B7+contextkit+%C2%B7+safepath;Open+to+collaborations+%F0%9F%9A%80" alt="Priyanshu Kumar – developer, open source, AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=800&color=39FF14&background=0D111700&center=true&vCenter=true&width=780&height=50&lines=%24+whoami;Priyanshu+Kumar+%E2%80%94+B.Tech+CSE+graduate;Building+privacy-first+developer+tools;%24+git+log+--oneline+--all;gitwhisper+%C2%B7+finpulse-ai+%C2%B7+contextkit+%C2%B7+safepath;Open+to+collaborations+%F0%9F%9A%80" alt="Priyanshu Kumar – developer, open source, AI" />
 </p>
 
 <table align="center">
@@ -17,7 +17,7 @@
 ║                                                                    ║
 ║   $ cat about.md                                                   ║
 ║   name    : Priyanshu Kumar                                        ║
-║   role    : Final-year B.Tech CSE · Software Engineer               ║
+║   role    : B.Tech CSE graduate · Software Engineer                 ║
 ║   edu     : Sandip University                                       ║
 ║   loc     : India                                                   ║
 ║   focus   : Developer tools · AI/ML · Privacy-first software        ║
@@ -49,7 +49,7 @@
 
 ## 🧠 About
 
-- 🔭 **Currently:** Final-year B.Tech (Computer Science) student, building privacy-first developer tools and AI-powered applications.
+- 🔭 **Currently:** B.Tech CSE graduate building privacy-first developer tools and AI-powered applications. Open to full-time roles and collaborations.
 - 🌱 **Learning:** TypeScript, React, RAG pipelines, and production-grade testing.
 - 🤝 **Open to:** Collaborations on open-source CLI tools, AI utilities, and practical hackathon projects.
 - ⚡ **Fun fact:** Early riser who likes turning messy problems into simple command-line tools.
@@ -68,7 +68,7 @@
 </p>
 
 - 🛠️ **Shipping:** `gitwhisper` — privacy-first secret guard, clean commits and PR summaries.
-- 📚 **Studying:** final-year B.Tech CSE, with a focus on RAG systems and typed APIs.
+- 📚 **Learning:** RAG systems, typed APIs and production-grade testing.
 - 🤝 **Open for:** collaborations on open-source developer tools and practical AI apps.
 
 ---

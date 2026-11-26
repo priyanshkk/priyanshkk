@@ -33,7 +33,7 @@
 
   <text x="64" y="126" font-family="monospace" font-size="18" fill="#22d3ee">$ whoami</text>
   <text x="64" y="178" font-family="monospace" font-size="46" font-weight="700" fill="url(#accent)" filter="url(#soft)">Priyanshu Kumar</text>
-  <text x="66" y="212" font-family="monospace" font-size="17" fill="#e7ecf3">final-year B.Tech CSE · open-source developer · building in public</text>
+  <text x="66" y="212" font-family="monospace" font-size="17" fill="#e7ecf3">B.Tech CSE graduate · open-source developer · building in public</text>
   <text x="66" y="244" font-family="monospace" font-size="15" fill="#8b95a7">privacy-first CLI tools · AI apps · clean developer workflows</text>
 
   <text x="64" y="274" font-family="monospace" font-size="15" fill="#39ff14">$ git status</text>
