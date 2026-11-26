@@ -126,7 +126,7 @@ Also in the toolbox: [weather-cli](https://github.com/priyanshkk/weather-cli) ·
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshkk&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
+  <img src="https://raw.githubusercontent.com/priyanshkk/priyanshkk/main/assets/trophies.svg" alt="Achievement badges" width="92%" />
 </p>
 
 <p align="center">
@@ -134,7 +134,7 @@ Also in the toolbox: [weather-cli](https://github.com/priyanshkk/weather-cli) ·
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=priyanshkk&label=Profile+Views&icon=0&color=39FF14&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=priyanshkk&label=Profile+views&color=39FF14&style=flat" alt="Profile views" />
 </p>
 
 ---
