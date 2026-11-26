@@ -169,8 +169,10 @@ Best way to reach me: **priyanshukumarpk3645736@gmail.com**
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanshu-kumar-a195ba271/"><img src="https://img.shields.io/badge/LinkedIn-070C18?style=for-the-badge&logo=linkedin&logoColor=00FFC6" alt="LinkedIn" /></a>
   <a href="https://x.com/Priyanshu_kk_29"><img src="https://img.shields.io/badge/X-070C18?style=for-the-badge&logo=x&logoColor=00FFC6" alt="X" /></a>
-  <a href="https://instagram.com/_priyanshu_k_k/"><img src="https://img.shields.io/badge/Instagram-070C18?style=for-the-badge&logo=instagram&logoColor=00FFC6" alt="Instagram" /></a>
-  <a href="https://youtube.com/@ApexViewYT"><img src="https://img.shields.io/badge/YouTube-070C18?style=for-the-badge&logo=youtube&logoColor=00FFC6" alt="YouTube" /></a>
+  <a href="https://www.instagram.com/priyanshu.k_/"><img src="https://img.shields.io/badge/Instagram-070C18?style=for-the-badge&logo=instagram&logoColor=00FFC6" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/priyanshu.kk.3"><img src="https://img.shields.io/badge/Facebook-070C18?style=for-the-badge&logo=facebook&logoColor=00FFC6" alt="Facebook" /></a>
+  <a href="https://www.youtube.com/@priyanshu.kk.3"><img src="https://img.shields.io/badge/YouTube-070C18?style=for-the-badge&logo=youtube&logoColor=00FFC6" alt="YouTube" /></a>
+  <a href="https://youtube.com/@ApexViewYT"><img src="https://img.shields.io/badge/ApexView-070C18?style=for-the-badge&logo=youtube&logoColor=00FFC6" alt="ApexView YouTube" /></a>
   <a href="mailto:priyanshukumarpk3645736@gmail.com"><img src="https://img.shields.io/badge/Email-070C18?style=for-the-badge&logo=gmail&logoColor=00FFC6" alt="Email" /></a>
 </p>
 
