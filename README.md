@@ -1,50 +1,117 @@
-# 💫 Hi 👋, I'm Priyanshu Kumar  
-**A passionate Engineering Student || Tech Explorer || Content Creator from India**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=800&color=39FF14&background=0D111700&center=true&vCenter=true&width=780&height=50&lines=%24+whoami;Priyanshu+Kumar+%E2%80%94+Final-year+B.Tech+CSE;Building+privacy-first+developer+tools;%24+git+log+--oneline+--all;gitwhisper+%C2%B7+finpulse-ai+%C2%B7+contextkit+%C2%B7+safepath;Open+to+collaborations+%F0%9F%9A%80" alt="Priyanshu Kumar – developer, open source, AI" />
+</p>
 
-Email Me 👉 ✉️ **priyanshukumarpk3645736@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<table align="center">
+<tr>
+<td>
 
-- 🔭 **I’m currently working on:** Engineering studies, Python, and AI/ML  
-- 🌱 **I’m currently learning:** Python programming, Artificial Intelligence, Machine Learning  
-- 👯 **I’m looking to collaborate on:** Tech-based learning projects and creative ideas  
-- 🤔 **I’m looking for help with:** AI/ML concepts and real-world applications  
-- 💬 **Ask me about:** Collaboration, Tech Support  
-- 📫 **How to reach me:** priyanshukumarpk3645736@gmail.com  
-- 😄 **Pronouns:** Priyanshu Bhaiya Ji  
-- ⚡ **Fun fact:** I start my day early and love solving coding challenges
+<pre>
+╔══════════════════════════════════════════════════════════════════════╗
+║  ● ● ●                  priyanshu@dev:~  —  zsh                     ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                    ║
+║   $ cat about.md                                                   ║
+║   name    : Priyanshu Kumar                                        ║
+║   role    : Final-year B.Tech CSE · Software Engineer               ║
+║   edu     : Sandip University                                       ║
+║   loc     : India                                                   ║
+║   focus   : Developer tools · AI/ML · Privacy-first software        ║
+║   stack   : Python · TypeScript · React · Node.js · Docker          ║
+║   status  : online — building and shipping                          ║
+║                                                                    ║
+╚══════════════════════════════════════════════════════════════════════╝
+</pre>
 
-## 🔗 I am a Content Creator. 😊😊
+</td>
+</tr>
+</table>
 
-Stay updated with the latest tutorials and projects by following me on Instagram, LinkedIn, and X (Twitter).
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/priyanshu.kk.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanshu.k_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-kumar-35a03137a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Priyanshu_kk_29) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ApexViewYT) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Priyanshu kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshukumarpk3645736@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=priyanshkk&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=priyanshkk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshkk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=priyanshkk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=priyanshkk&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=39FF14&color=30363d" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=39FF14&color=30363d" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=39FF14&color=30363d" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=39FF14&color=30363d" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=39FF14&color=30363d" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=39FF14&color=30363d" />
+  <img src="https://img.shields.io/badge/Open--Source-0D1117?style=flat-square&logo=github&logoColor=39FF14&color=30363d" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=priyanshkk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About
+
+- 🔭 **Currently:** Final-year B.Tech (Computer Science) student, building privacy-first developer tools and AI-powered applications.
+- 🌱 **Learning:** TypeScript, React, RAG pipelines, and production-grade testing.
+- 🤝 **Open to:** Collaborations on open-source CLI tools, AI utilities, and practical hackathon projects.
+- ⚡ **Fun fact:** Early riser who likes turning messy problems into simple command-line tools.
+
+> Clean code, honest tests, and tools that work offline matter to me.
+
+---
+
+## 🚀 Featured projects
+
+| Repository | What it does |
+| :--- | :--- |
+| [**gitwhisper**](https://github.com/priyanshkk/gitwhisper) | Privacy-first AI CLI that catches leaked secrets, writes clean commits and generates PR summaries. Local dashboard, offline fallback, no API key needed for the demo. |
+| [**finpulse-ai**](https://github.com/priyanshkk/finpulse-ai) | Self-hosted invoice and expense tracker with an AI receipt scanner, offline fallback and one-command Docker setup. |
+| [**contextkit**](https://github.com/priyanshkk/contextkit) | Token-aware, structure-preserving text chunking for RAG pipelines with a typed API and CLI. Zero runtime dependencies. |
+| [**safepath**](https://github.com/priyanshkk/safepath) | Dependency-free path-traversal defence for Python file-serving apps, with a CLI and 56 tests. |
+| [**file-organizer**](https://github.com/priyanshkk/file-organizer) | Organise files into categories with a dry-run mode and one-command undo. |
+| [**snake-game**](https://github.com/priyanshkk/snake-game) | Classic Snake in Python with pygame and unit-tested game logic. |
+
+Also in the toolbox: [weather-cli](https://github.com/priyanshkk/weather-cli) · [expense-tracker](https://github.com/priyanshkk/expense-tracker) · [password-toolkit](https://github.com/priyanshkk/password-toolkit)
+
+⭐ Star a repo if it helps you — it genuinely keeps the builds going.
+
+---
+
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,express,mongodb,mysql,tailwind&theme=dark&perline=12" alt="Languages and frameworks" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,aws,postman&theme=dark&perline=12" alt="Tools and platforms" />
+</p>
+
+---
+
+## 📊 GitHub activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=priyanshkk&theme=dark&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0D1117&border_color=30363d&include_all_commits=true&count_private=false" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshkk&layout=compact&theme=dark&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0D1117&border_color=30363d" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=priyanshkk&theme=dark&background=0D1117&border=30363D&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&stroke=30363D" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshkk&bg_color=0D1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution activity graph" />
+</p>
+
+---
+
+## 📫 Contact
+
+Best way to reach me: **priyanshukumarpk3645736@gmail.com**
+
+<p align="center">
+  <a href="https://linkedin.com/in/priyanshu-kumar-35a03137a"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn" /></a>
+  <a href="https://x.com/Priyanshu_kk_29"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=39FF14" alt="X" /></a>
+  <a href="https://instagram.com/priyanshu.k_"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=39FF14" alt="Instagram" /></a>
+  <a href="https://youtube.com/@ApexViewYT"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=39FF14" alt="YouTube" /></a>
+  <a href="mailto:priyanshukumarpk3645736@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email" /></a>
+</p>
+
+```bash
+$ exit
+> "Keep learning · Keep building · Keep growing"
+[Process completed with exit code 0]
+```
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=560&lines=%2F%2F+Thanks+for+visiting+my+profile+%E2%AD%90;%2F%2F+Happy+building+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Thanks for visiting" />
+</p>
