@@ -50,6 +50,12 @@
 
 ---
 
+## 🌐 Portfolio
+
+**[priyanshkk.github.io](https://priyanshkk.github.io)** — a fully animated, responsive portfolio built with plain HTML, CSS and vanilla JavaScript. No frameworks, no trackers.
+
+---
+
 ## 🚀 Featured projects
 
 | Repository | What it does |
