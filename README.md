@@ -45,6 +45,10 @@
   <a href="#about">About</a> · <a href="#now">Now</a> · <a href="#portfolio">Portfolio</a> · <a href="#featured-projects">Projects</a> · <a href="#tech-stack">Stack</a> · <a href="#github-activity">Activity</a> · <a href="#contact">Contact</a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/priyanshkk/priyanshkk/main/assets/sparkles.svg" alt="Animated sparkles" width="100%" />
+</p>
+
 ---
 
 ## 🧠 About
@@ -121,6 +125,18 @@ Also in the toolbox: [weather-cli](https://github.com/priyanshkk/weather-cli) ·
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshkk&bg_color=0D1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution activity graph" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshkk&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random developer quote" />
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=priyanshkk&label=Profile+Views&icon=0&color=39FF14&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ## 📫 Contact
@@ -140,6 +156,10 @@ $ exit
 > "Keep learning · Keep building · Keep growing"
 [Process completed with exit code 0]
 ```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/priyanshkk/priyanshkk/main/assets/sparkles.svg" alt="Animated sparkles" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=560&lines=%2F%2F+Thanks+for+visiting+my+profile+%E2%AD%90;%2F%2F+Happy+building+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Thanks for visiting" />

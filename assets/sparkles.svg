@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90" role="img" aria-label="Animated sparkles">
+  <defs>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#39ff14" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#39ff14" stop-opacity="0.9"/>
+      <stop offset="55%" stop-color="#22d3ee" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0%" stop-color="#39ff14" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#39ff14" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <g stroke="#39ff14" stroke-opacity="0.18" stroke-width="1">
+    <line x1="0" y1="45" x2="1200" y2="45"/>
+  </g>
+
+  <g>
+    <rect x="-260" y="43" width="260" height="4" rx="2" fill="url(#shine)">
+      <animate attributeName="x" from="-260" to="1200" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g fill="#39ff14">
+    <circle cx="90" cy="30" r="2.4">
+      <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="235" cy="60" r="1.8">
+      <animate attributeName="opacity" values="1;0.1;1" dur="3.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="410" cy="24" r="2.1">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="575" cy="66" r="1.6">
+      <animate attributeName="opacity" values="1;0.15;1" dur="2.2s" begin="0.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="760" cy="28" r="2.6">
+      <animate attributeName="opacity" values="0.1;1;0.1" dur="3.4s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="930" cy="58" r="1.9">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2.6s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1095" cy="30" r="2.3">
+      <animate attributeName="opacity" values="0.15;1;0.15" dur="3s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g fill="none" stroke="#22d3ee" stroke-width="1.4" stroke-linecap="round">
+    <g transform="translate(150 45)">
+      <path d="M0 -7V7M-7 0H7">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="90" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <g transform="translate(660 45)">
+      <path d="M0 -6V6M-6 0H6">
+        <animateTransform attributeName="transform" type="rotate" from="90" to="0" dur="7s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0.2;1" dur="3.5s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <g transform="translate(1030 45)">
+      <path d="M0 -8V8M-8 0H8">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="90" dur="5.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.2;1;0.2" dur="2.7s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  </g>
+
+  <circle cx="660" cy="45" r="26" fill="url(#halo)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="150" cy="45" r="18" fill="url(#halo)">
+    <animate attributeName="opacity" values="1;0.3;1" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>
