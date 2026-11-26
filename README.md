@@ -53,9 +53,11 @@
 
 ## 🧠 About
 
-- 🔭 **Currently:** B.Tech CSE graduate building privacy-first developer tools and AI-powered applications. Open to full-time roles and collaborations.
-- 🌱 **Learning:** TypeScript, React, RAG pipelines, and production-grade testing.
-- 🤝 **Open to:** Collaborations on open-source CLI tools, AI utilities, and practical hackathon projects.
+I'm **Priyanshu Kumar** (`priyanshkk`), a **B.Tech CSE graduate** and **open-source developer from India**. I build **privacy-first developer tools, AI applications and CLI software** with **Python, TypeScript, Node.js, React, FastAPI and RAG pipelines**.
+
+- 🔭 **Currently:** Building open-source developer tools such as `gitwhisper`, `finpulse-ai`, `contextkit` and `sathi-assistant`. Open to full-time roles and collaborations.
+- 🌱 **Learning:** TypeScript, React, RAG systems, computer vision and production-grade testing.
+- 🤝 **Open to:** Python developer, TypeScript developer, AI engineer, backend/FastAPI and open-source contributor roles.
 - ⚡ **Fun fact:** Early riser who likes turning messy problems into simple command-line tools.
 
 > Clean code, honest tests, and tools that work offline matter to me.
@@ -91,6 +93,8 @@
 | [**finpulse-ai**](https://github.com/priyanshkk/finpulse-ai) | Self-hosted invoice and expense tracker with an AI receipt scanner, offline fallback and one-command Docker setup. |
 | [**contextkit**](https://github.com/priyanshkk/contextkit) | Token-aware, structure-preserving text chunking for RAG pipelines with a typed API and CLI. Zero runtime dependencies. |
 | [**safepath**](https://github.com/priyanshkk/safepath) | Dependency-free path-traversal defence for Python file-serving apps, with a CLI and 56 tests. |
+| [**sathi-assistant**](https://github.com/priyanshkk/sathi-assistant) | Local-first voice assistant with explainable memory, habits, focus tracking and a decision compass. No API key required. |
+| [**sathi-vision**](https://github.com/priyanshkk/sathi-vision) | Live browser-camera object detection with Python, FastAPI, OpenCV and OWL-ViT open-vocabulary AI. |
 | [**file-organizer**](https://github.com/priyanshkk/file-organizer) | Organise files into categories with a dry-run mode and one-command undo. |
 | [**snake-game**](https://github.com/priyanshkk/snake-game) | Classic Snake in Python with pygame and unit-tested game logic. |
 
