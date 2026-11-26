@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/priyanshkk/priyanshkk/main/assets/banner.svg" alt="Priyanshu Kumar — building in public" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=800&color=39FF14&background=0D111700&center=true&vCenter=true&width=780&height=50&lines=%24+whoami;Priyanshu+Kumar+%E2%80%94+Final-year+B.Tech+CSE;Building+privacy-first+developer+tools;%24+git+log+--oneline+--all;gitwhisper+%C2%B7+finpulse-ai+%C2%B7+contextkit+%C2%B7+safepath;Open+to+collaborations+%F0%9F%9A%80" alt="Priyanshu Kumar – developer, open source, AI" />
 </p>
 
@@ -37,6 +41,10 @@
   <img src="https://img.shields.io/badge/Open--Source-0D1117?style=flat-square&logo=github&logoColor=39FF14&color=30363d" />
 </p>
 
+<p align="center">
+  <a href="#about">About</a> · <a href="#now">Now</a> · <a href="#portfolio">Portfolio</a> · <a href="#featured-projects">Projects</a> · <a href="#tech-stack">Stack</a> · <a href="#github-activity">Activity</a> · <a href="#contact">Contact</a>
+</p>
+
 ---
 
 ## 🧠 About
@@ -47,6 +55,21 @@
 - ⚡ **Fun fact:** Early riser who likes turning messy problems into simple command-line tools.
 
 > Clean code, honest tests, and tools that work offline matter to me.
+
+---
+
+## 🧭 Now
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-building%20in%20public-39FF14?style=flat-square&logo=github&logoColor=39FF14&labelColor=0D1117&color=0D1117" alt="Status: building in public" />
+  <img src="https://img.shields.io/github/followers/priyanshkk?style=flat-square&logo=github&logoColor=39FF14&labelColor=0D1117&color=0D1117" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/license/priyanshkk/gitwhisper?style=flat-square&logo=github&logoColor=39FF14&labelColor=0D1117&color=0D1117" alt="License" />
+  <img src="https://img.shields.io/github/actions/workflow/status/priyanshkk/gitwhisper/ci.yml?style=flat-square&logo=githubactions&logoColor=39FF14&label=gitwhisper%20CI&labelColor=0D1117&color=0D1117" alt="GitWhisper CI" />
+</p>
+
+- 🛠️ **Shipping:** `gitwhisper` — privacy-first secret guard, clean commits and PR summaries.
+- 📚 **Studying:** final-year B.Tech CSE, with a focus on RAG systems and typed APIs.
+- 🤝 **Open for:** collaborations on open-source developer tools and practical AI apps.
 
 ---
 
