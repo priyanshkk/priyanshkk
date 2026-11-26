@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Animated neural network — AI, systems and open source">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#070c18"/><stop offset="50%" stop-color="#0d1830"/><stop offset="100%" stop-color="#070c18"/>
+    </linearGradient>
+    <linearGradient id="line2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00ffc6" stop-opacity="0.15"/><stop offset="50%" stop-color="#00ffc6" stop-opacity="0.85"/><stop offset="100%" stop-color="#7c9cff" stop-opacity="0.15"/>
+    </linearGradient>
+    <filter id="glow2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="150" fill="url(#bg2)"/>
+  <g stroke="url(#line2)" stroke-width="1.2" fill="none">
+    <path d="M60 40 L240 75 M60 110 L240 75 M240 75 L430 35 M240 75 L430 115 M430 35 L620 75 M430 115 L620 75 M620 75 L810 40 M620 75 L810 110 M810 40 L1000 75 M810 110 L1000 75 M1000 75 L1140 50 M1000 75 L1140 100"/>
+  </g>
+  <g fill="#00ffc6" filter="url(#glow2)">
+    <circle cx="60" cy="40" r="4"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="60" cy="110" r="4" fill="#7c9cff"><animate attributeName="opacity" values="1;0.3;1" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="240" cy="75" r="6"><animate attributeName="r" values="5;7;5" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="430" cy="35" r="5" fill="#a855f7"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="430" cy="115" r="5" fill="#7c9cff"><animate attributeName="opacity" values="1;0.4;1" dur="3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="620" cy="75" r="8" fill="#00ffc6"><animate attributeName="opacity" values="0.7;1;0.7" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="810" cy="40" r="5" fill="#a855f7"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="810" cy="110" r="5" fill="#7c9cff"><animate attributeName="opacity" values="1;0.3;1" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1000" cy="75" r="6"><animate attributeName="r" values="5;7;5" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="1140" cy="50" r="4" fill="#7c9cff"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1140" cy="100" r="4"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#00ffc6" stroke="none" filter="url(#glow2)">
+    <circle r="3"><animateMotion path="M60 40 L240 75 L430 35 L620 75" dur="5s" repeatCount="indefinite"/></circle>
+    <circle r="3" fill="#a855f7"><animateMotion path="M60 110 L240 75 L430 115 L620 75" dur="6.2s" repeatCount="indefinite"/></circle>
+    <circle r="3" fill="#7c9cff"><animateMotion path="M620 75 L810 40 L1000 75 L1140 50" dur="4.4s" repeatCount="indefinite"/></circle>
+    <circle r="3"><animateMotion path="M620 75 L810 110 L1000 75 L1140 100" dur="5.6s" repeatCount="indefinite"/></circle>
+  </g>
+  <rect x="0" y="0" width="1200" height="150" fill="none" stroke="#1c2a44" stroke-width="2"/>
+  <text x="600" y="142" text-anchor="middle" font-family="monospace" font-size="11" letter-spacing="6" fill="#5d7292">SIGNAL // AI · SYSTEMS · OPEN SOURCE</text>
+</svg>
