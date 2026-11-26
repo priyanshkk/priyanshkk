@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/github/stars/priyanshkk?style=for-the-badge&logo=github&logoColor=00FFC6&labelColor=070C18&color=070C18" alt="Total stars" />
   <img src="https://img.shields.io/github/actions/workflow/status/priyanshkk/composeguard/ci.yml?style=for-the-badge&logo=githubactions&logoColor=00FFC6&label=composeguard%20CI&labelColor=070C18&color=070C18" alt="ComposeGuard CI" />
   <img src="https://img.shields.io/github/actions/workflow/status/priyanshkk/envguard/ci.yml?style=for-the-badge&logo=githubactions&logoColor=00FFC6&label=envguard%20CI&labelColor=070C18&color=070C18" alt="EnvGuard CI" />
+  <img src="https://img.shields.io/github/actions/workflow/status/priyanshkk/workflowguard/ci.yml?style=for-the-badge&logo=githubactions&logoColor=00FFC6&label=workflowguard%20CI&labelColor=070C18&color=070C18" alt="WorkflowGuard CI" />
 </p>
 
 <p align="center">
@@ -50,7 +51,7 @@
 
 I'm **Priyanshu Kumar** (`priyanshkk`), a **B.Tech CSE graduate** and **open-source developer from India** working as an **AI engineer and software developer**. I build **privacy-first developer tools, AI applications, CLI software and self-hosted/DevOps utilities** with **Python, TypeScript, Node.js, React, FastAPI, Docker and RAG pipelines**.
 
-- 🔭 **Currently:** Building open-source tools such as `composeguard`, `envguard`, `gitwhisper`, `finpulse-ai`, `contextkit` and `sathi-assistant`. Open to full-time roles and collaborations.
+- 🔭 **Currently:** Building open-source tools such as `composeguard`, `envguard`, `workflowguard`, `gitwhisper`, `finpulse-ai`, `contextkit` and `sathi-assistant`. Open to full-time roles and collaborations.
 - 🌱 **Learning:** RAG systems, computer vision, typed APIs, Docker/self-hosted infrastructure and production-grade testing.
 - 🤝 **Open to:** AI engineer, Python developer, TypeScript developer, backend/FastAPI, DevOps and open-source contributor roles.
 - ⚡ **Fun fact:** Early riser who likes turning messy problems into simple command-line tools.
@@ -68,7 +69,7 @@ I'm **Priyanshu Kumar** (`priyanshkk`), a **B.Tech CSE graduate** and **open-sou
   <img src="https://img.shields.io/badge/Open-Source-00FFC6?style=flat-square&labelColor=070C18&color=0D2A26" alt="Open source" />
 </p>
 
-- 🛠️ **Shipping:** `composeguard` — offline Docker Compose validator, and `envguard` — offline `.env` validator with source-usage checks.
+- 🛠️ **Shipping:** `workflowguard` — offline GitHub Actions risk linter, `composeguard` — Docker Compose validator, and `envguard` — `.env` validator with source-usage checks.
 - 🔐 **Maintaining:** `gitwhisper` — privacy-first secret guard, clean commits and PR summaries.
 - 📚 **Learning:** RAG systems, OWL-ViT computer vision and production-grade testing.
 - 🤝 **Open for:** collaborations on practical AI apps and developer tooling.
@@ -80,9 +81,9 @@ I'm **Priyanshu Kumar** (`priyanshkk`), a **B.Tech CSE graduate** and **open-sou
 | Area | What that means |
 | :--- | :--- |
 | 🧠 **AI Systems** | Local-first assistants, RAG pipelines, open-vocabulary detection and explainable memory. |
-| ⌨️ **Developer Tools** | Offline CLIs, `.env` and Compose validators, and libraries with typed APIs and real test coverage. |
-| 🐳 **Self-Hosted / DevOps** | Docker Compose auditing, privacy-first services and one-command deployments. |
-| 🔐 **Security** | Secret detection, path-traversal defence and safe file handling. |
+| ⌨️ **Developer Tools** | Offline CLIs, GitHub Actions auditing, `.env` and Compose validators, and libraries with typed APIs and real test coverage. |
+| 🐳 **Self-Hosted / DevOps** | Workflow risk checks, Docker Compose auditing, privacy-first services and one-command deployments. |
+| 🔐 **Security** | Secret detection, supply-chain pinning, CI injection and pwn-request checks, path-traversal defence and safe file handling. |
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/priyanshkk/priyanshkk/main/assets/neural-net.svg" alt="Animated neural network — AI, systems and open source" width="100%" />
@@ -101,6 +102,7 @@ I'm **Priyanshu Kumar** (`priyanshkk`), a **B.Tech CSE graduate** and **open-sou
 | Repository | ⭐ | What it does |
 | :--- | :---: | :--- |
 | [**composeguard**](https://github.com/priyanshkk/composeguard) | [![stars](https://img.shields.io/github/stars/priyanshkk/composeguard?style=flat-square&label=%E2%98%85&labelColor=070C18&color=00FFC6)](https://github.com/priyanshkk/composeguard/stargazers) | Offline Docker Compose validator and deployment-readiness auditor for homelabs and CI. 12 rules, JSON output, zero telemetry. |
+| [**workflowguard**](https://github.com/priyanshkk/workflowguard) | [![stars](https://img.shields.io/github/stars/priyanshkk/workflowguard?style=flat-square&label=%E2%98%85&labelColor=070C18&color=00FFC6)](https://github.com/priyanshkk/workflowguard/stargazers) | Offline GitHub Actions linter for supply-chain pins, token scope, shell injection, pwn-request and CI cost. 12 rules, JSON output, browser checker. |
 | [**envguard**](https://github.com/priyanshkk/envguard) | [![stars](https://img.shields.io/github/stars/priyanshkk/envguard?style=flat-square&label=%E2%98%85&labelColor=070C18&color=00FFC6)](https://github.com/priyanshkk/envguard/stargazers) | Offline `.env` validator that catches example drift, bad values and undocumented source usage. 10 rules, JSON output, browser checker. |
 | [**gitwhisper**](https://github.com/priyanshkk/gitwhisper) | [![stars](https://img.shields.io/github/stars/priyanshkk/gitwhisper?style=flat-square&label=%E2%98%85&labelColor=070C18&color=00FFC6)](https://github.com/priyanshkk/gitwhisper/stargazers) | Privacy-first AI CLI that catches leaked secrets, writes clean commits and generates PR summaries. Local dashboard, offline fallback. |
 | [**finpulse-ai**](https://github.com/priyanshkk/finpulse-ai) | [![stars](https://img.shields.io/github/stars/priyanshkk/finpulse-ai?style=flat-square&label=%E2%98%85&labelColor=070C18&color=00FFC6)](https://github.com/priyanshkk/finpulse-ai/stargazers) | Self-hosted invoice and expense tracker with an AI receipt scanner, offline fallback and one-command Docker setup. |
@@ -143,7 +145,7 @@ Also in the toolbox: [weather-cli](https://github.com/priyanshkk/weather-cli) ·
 </p>
 
 <p align="center">
-  <img src="https://api.star-history.com/svg?repos=priyanshkk/gitwhisper,priyanshkk/finpulse-ai,priyanshkk/composeguard,priyanshkk/envguard,priyanshkk/sathi-vision&type=Date" alt="Star history of featured repositories" width="90%" />
+  <img src="https://api.star-history.com/svg?repos=priyanshkk/gitwhisper,priyanshkk/finpulse-ai,priyanshkk/composeguard,priyanshkk/envguard,priyanshkk/workflowguard,priyanshkk/sathi-vision&type=Date" alt="Star history of featured repositories" width="90%" />
 </p>
 
 <p align="center">
