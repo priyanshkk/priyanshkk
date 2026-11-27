@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/github/actions/workflow/status/priyanshkk/composeguard/ci.yml?style=for-the-badge&logo=githubactions&logoColor=00FFC6&label=composeguard%20CI&labelColor=070C18&color=070C18" alt="ComposeGuard CI" />
   <img src="https://img.shields.io/github/actions/workflow/status/priyanshkk/envguard/ci.yml?style=for-the-badge&logo=githubactions&logoColor=00FFC6&label=envguard%20CI&labelColor=070C18&color=070C18" alt="EnvGuard CI" />
   <img src="https://img.shields.io/github/actions/workflow/status/priyanshkk/workflowguard/ci.yml?style=for-the-badge&logo=githubactions&logoColor=00FFC6&label=workflowguard%20CI&labelColor=070C18&color=070C18" alt="WorkflowGuard CI" />
+  <img src="https://img.shields.io/github/actions/workflow/status/priyanshkk/runlog-lens/ci.yml?style=for-the-badge&logo=githubactions&logoColor=00FFC6&label=runlog-lens%20CI&labelColor=070C18&color=070C18" alt="runlog-lens CI" />
 </p>
 
 <p align="center">
@@ -51,7 +52,7 @@
 
 I'm **Priyanshu Kumar** (`priyanshkk`), a **B.Tech CSE graduate** and **open-source developer from India** working as an **AI engineer and software developer**. I build **privacy-first developer tools, AI applications, CLI software and self-hosted/DevOps utilities** with **Python, TypeScript, Node.js, React, FastAPI, Docker and RAG pipelines**.
 
-- 🔭 **Currently:** Building open-source tools such as `composeguard`, `envguard`, `workflowguard`, `rag-audit`, `privacy-lens`, `status-sentinel`, `carbon-ledger`, `gitwhisper`, `finpulse-ai`, `contextkit` and `sathi-assistant`. Open to full-time roles and collaborations.
+- 🔭 **Currently:** Building open-source tools such as `composeguard`, `envguard`, `workflowguard`, `runlog-lens`, `rag-audit`, `privacy-lens`, `status-sentinel`, `carbon-ledger`, `gitwhisper`, `finpulse-ai`, `contextkit` and `sathi-assistant`. Open to full-time roles and collaborations.
 - 🌱 **Learning:** RAG systems, computer vision, typed APIs, Docker/self-hosted infrastructure and production-grade testing.
 - 🤝 **Open to:** AI engineer, Python developer, TypeScript developer, backend/FastAPI, DevOps and open-source contributor roles.
 - ⚡ **Fun fact:** Early riser who likes turning messy problems into simple command-line tools.
@@ -69,7 +70,7 @@ I'm **Priyanshu Kumar** (`priyanshkk`), a **B.Tech CSE graduate** and **open-sou
   <img src="https://img.shields.io/badge/Open-Source-00FFC6?style=flat-square&labelColor=070C18&color=0D2A26" alt="Open source" />
 </p>
 
-- 🛠️ **Shipping:** `workflowguard` — offline GitHub Actions risk linter, `composeguard` — Docker Compose validator, `envguard` — `.env` validator, `rag-audit` — grounded RAG checks, `privacy-lens` — static tracker scans, `status-sentinel` — incident diffs, and `carbon-ledger` — cloud/AI emission estimates.
+- 🛠️ **Shipping:** `workflowguard` — offline GitHub Actions risk linter, `runlog-lens` — CI failure-cause and flaky-step analysis, `composeguard` — Docker Compose validator, `envguard` — `.env` validator, `rag-audit` — grounded RAG checks, `privacy-lens` — static tracker scans, `status-sentinel` — incident diffs, and `carbon-ledger` — cloud/AI emission estimates.
 - 🔐 **Maintaining:** `gitwhisper` — privacy-first secret guard, clean commits and PR summaries.
 - 📚 **Learning:** RAG systems, OWL-ViT computer vision and production-grade testing.
 - 🤝 **Open for:** collaborations on practical AI apps and developer tooling.
@@ -113,6 +114,7 @@ I'm **Priyanshu Kumar** (`priyanshkk`), a **B.Tech CSE graduate** and **open-sou
 | [**privacy-lens**](https://github.com/priyanshkk/privacy-lens) | [![stars](https://img.shields.io/github/stars/priyanshkk/privacy-lens?style=flat-square&label=%E2%98%85&labelColor=070C18&color=00FFC6)](https://github.com/priyanshkk/privacy-lens/stargazers) | Static HTML privacy scanner for trackers, third-party scripts, iframes, forms and fingerprinting signals. No network calls, no JavaScript execution. |
 | [**status-sentinel**](https://github.com/priyanshkk/status-sentinel) | [![stars](https://img.shields.io/github/stars/priyanshkk/status-sentinel?style=flat-square&label=%E2%98%85&labelColor=070C18&color=00FFC6)](https://github.com/priyanshkk/status-sentinel/stargazers) | Statuspage incident diff tool that detects new, escalating, regressing and resolved incidents from local snapshots or a polled feed. |
 | [**carbon-ledger**](https://github.com/priyanshkk/carbon-ledger) | [![stars](https://img.shields.io/github/stars/priyanshkk/carbon-ledger?style=flat-square&label=%E2%98%85&labelColor=070C18&color=00FFC6)](https://github.com/priyanshkk/carbon-ledger/stargazers) | Estimates electricity use, CO2e and optional running cost for cloud and AI workloads from a simple CSV, with region overrides and CI thresholds. |
+| [**runlog-lens**](https://github.com/priyanshkk/runlog-lens) | [![stars](https://img.shields.io/github/stars/priyanshkk/runlog-lens?style=flat-square&label=%E2%98%85&labelColor=070C18&color=00FFC6)](https://github.com/priyanshkk/runlog-lens/stargazers) | Offline CI run-log analyzer that labels failure causes, catches flaky retries and flags slow steps with auditable Markdown or JSON reports. |
 | [**safepath**](https://github.com/priyanshkk/safepath) | [![stars](https://img.shields.io/github/stars/priyanshkk/safepath?style=flat-square&label=%E2%98%85&labelColor=070C18&color=00FFC6)](https://github.com/priyanshkk/safepath/stargazers) | Dependency-free path-traversal defence for Python file-serving apps, with a CLI and 56 tests. |
 | [**file-organizer**](https://github.com/priyanshkk/file-organizer) | [![stars](https://img.shields.io/github/stars/priyanshkk/file-organizer?style=flat-square&label=%E2%98%85&labelColor=070C18&color=00FFC6)](https://github.com/priyanshkk/file-organizer/stargazers) | Organise files into categories with a dry-run mode and one-command undo. |
 | [**snake-game**](https://github.com/priyanshkk/snake-game) | [![stars](https://img.shields.io/github/stars/priyanshkk/snake-game?style=flat-square&label=%E2%98%85&labelColor=070C18&color=00FFC6)](https://github.com/priyanshkk/snake-game/stargazers) | Classic Snake in Python with pygame and unit-tested game logic. |
